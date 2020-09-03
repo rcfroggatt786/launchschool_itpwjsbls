@@ -1,0 +1,6 @@
+'true' - datatype is String
+false - datatype is Boolean
+1.5 - Number
+2 - Number
+undefined - Undefined
+{ foo : 'bar'} - Object

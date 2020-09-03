@@ -1,0 +1,4 @@
+let foo; // is a statement
+foo = 5; // is an expression and also a statement!
+foo; // is an expression. In C would be considered a statement also, not in Ruby.
+//Ruby appears to be more expression-centric than C, maybe due to the REPL?
